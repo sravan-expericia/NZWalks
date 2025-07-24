@@ -1,4 +1,42 @@
 ﻿<Properties StartupConfiguration="{BD6F7D2F-540A-4022-9067-0DA87E306F05}|Default">
-  <MonoDevelop.Ide.ItemProperties.NZWalks.API FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NZWalks.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="NZWalks.API/appsettings.json">
+    <Files>
+      <File FileName="NZWalks.API/Models/Domain/Region.cs" Line="13" Column="1" />
+      <File FileName="NZWalks.API/Models/Domain/Walk.cs" Line="19" Column="4" />
+      <File FileName="NZWalks.API/Models/Domain/WallkDifficulty.cs" Line="9" Column="2" />
+      <File FileName="NZWalks.API/Data/NZWalksDbContext.cs" Line="16" Column="62" />
+      <File FileName="NZWalks.API/appsettings.json" Line="15" Column="3" />
+      <File FileName="NZWalks.API/Program.cs" Line="17" Column="1" />
+      <File FileName="NZWalks.API/Migrations/20250723112948_InitialCreate.cs" Line="23" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NZWalks" expanded="True">
+            <Node name="NZWalks.API">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Domain" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
 </Properties>
