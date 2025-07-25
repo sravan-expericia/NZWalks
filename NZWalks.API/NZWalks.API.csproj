@@ -28,6 +28,7 @@
     <None Remove="Data\" />
     <None Remove="Repositories\" />
     <None Remove="Models\DTO\" />
+    <None Remove="Profiles\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
@@ -35,5 +36,6 @@
     <Folder Include="Data\" />
     <Folder Include="Repositories\" />
     <Folder Include="Models\DTO\" />
+    <Folder Include="Profiles\" />
   </ItemGroup>
 </Project>
